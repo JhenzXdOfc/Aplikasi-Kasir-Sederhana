@@ -15,7 +15,7 @@ Aplikasi kasir berbasis web yang sederhana, ringan, dan responsif. Cocok digunak
 
 ## 🖥️ Tampilan
 
-![Tampilan Aplikasi](img/screenshot.jpg) <!-- Ganti dengan nama file screenshot Anda -->
+![Tampilan Aplikasi]([img/screenshot.jpg](https://files.catbox.moe/fpdno4.png)) <!-- Ganti dengan nama file screenshot Anda -->
 
 ## 📁 Struktur Proyek
 

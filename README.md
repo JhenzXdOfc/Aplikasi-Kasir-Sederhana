@@ -13,10 +13,6 @@ Aplikasi kasir berbasis web yang sederhana, ringan, dan responsif. Cocok digunak
 - Modal sukses transaksi
 - Gambar produk dari direktori lokal (`img/`)
 
-## 🖥️ Tampilan
-
-![Tampilan Aplikasi] (https://files.catbox.moe/fpdno4.png)  <!-- Ganti dengan nama file screenshot Anda -->
-
 ## 📁 Struktur Proyek
 
 ```
@@ -61,4 +57,4 @@ Proyek ini bersifat open-source dan bebas digunakan untuk keperluan non-komersia
 
 ---
 
-Dibuat dengan ❤️ oleh [JhenzXdOfc]
+Dibuat dengan ❤️ oleh [Github(JhenzXdOfc)]
